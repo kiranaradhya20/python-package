@@ -1,0 +1,9 @@
+pymongo
+pymongo[srv]==3.6
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+-e .
